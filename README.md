@@ -1,4 +1,4 @@
-#  2D physics simulation engine 
+#  2D Physics Simulation Engine 
 Design and Implementation of Variational Integrators-Based 2D Simulator.
 
 ## Simulators Problem
