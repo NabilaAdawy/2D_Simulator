@@ -10,7 +10,11 @@ For example, in tests with Isaac Sim and Drake, problems emerged such as:
 
 • A substantial drop in frequency from 1kHz to as low as 60Hz or even 16Hz.
 
+Peg in hole task in Isaac Sim:
+
 https://github.com/user-attachments/assets/6c877565-4fff-4c2c-9713-06b90543d814
+
+Peg in hole task in Drake MIT:
 
 https://github.com/user-attachments/assets/7adb0ec3-133b-486f-8d94-72ab98895c1b
 
